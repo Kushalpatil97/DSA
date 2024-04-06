@@ -1,4 +1,4 @@
-package com.kushal.pattern;
+package com.kushal.recursion.pattern;
 /*
 * * * * * *
 * * * * *
